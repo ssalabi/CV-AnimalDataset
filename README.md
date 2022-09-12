@@ -1,4 +1,4 @@
-<h1>Image Classification of Wildlife Animals</h1>
+<h1>Computer vision projects on Wildlife Animals Dataset</h1>
 
 <h2>Description</h2>
 Ongoing Computer Vision project on Animals Dataset from Kaggle <br/>

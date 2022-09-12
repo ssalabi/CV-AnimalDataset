@@ -2,8 +2,7 @@
 
 <h2>Description</h2>
 Ongoing Computer Vision project on Animals Dataset from Kaggle <br/>
-Working on Model Architecture <br/>
-(Only Notebooks Module is updated for now)
+1st step: Image classification <br/>
 <br />
 
 <h2>Dataset</h2>

@@ -2,7 +2,9 @@
 
 <h2>Description</h2>
 Ongoing Computer Vision project on Animals Dataset from Kaggle <br/>
-1st step: Image classification <br/>
+<b>1st project: Multilabel Image classification with 6 classes</b> <br/>
+For the 1st experiment, I built one CNN model and achieved 56% accuracy <br/>
+For the 2nd experiment, I used Resnet50 as a pretrained model for transfer learning and achieve 99.6% accuracy
 <br />
 
 <h2>Dataset</h2>
